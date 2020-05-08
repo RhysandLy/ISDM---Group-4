@@ -2,6 +2,9 @@
 
 ## Defining the Problem
 ### Objectives
+#### Empathy Map
+##### Business Customer
+![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Rhys/Images/Empathy Map Business Customers - rhys.PNG "Business Customer Empathy Map")
 ### Stakeholders
 
 ## Approach
