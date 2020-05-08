@@ -1,2 +1,2 @@
-# Information System Development Methodologies - Assesment 1
+# Information System Development Methodologies - Assessment 1
 
