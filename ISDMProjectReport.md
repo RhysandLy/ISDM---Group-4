@@ -10,6 +10,10 @@ Business customers are offered many different travel options that does not suit 
 ##### Business Customer
 
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Rhys/Images/Empathy%20Map%20Business%20Customers%20-%20rhys.PNG "Business Customer Empathy Map")
+
+##### Relationship Managers
+![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Daisy/Images/Empathy%20Map%20(Relationship%20Managers).png "Relationship Manager Empathy Map")
+
 ### Stakeholders
 * Customers
     * Business
