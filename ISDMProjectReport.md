@@ -4,8 +4,8 @@
 ### Objectives
 
 #### Empathy Map
-#### Problem Statement: Business Customers 
-Business customers are offered many different travel options that does not suit their needs and it becomes difficult for them to go through each of them as it is time consuming. It is  very difficult to find the best option for their travelling needs. 
+#### Problem Statement
+![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/Problem%20Statements)
 
 ##### Commercial Customer 
 
