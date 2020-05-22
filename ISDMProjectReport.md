@@ -5,7 +5,7 @@
 
 #### Empathy Map
 #### Problem Statement
-![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/Problem%20Statements)
+
 
 ##### Commercial Customer 
 
