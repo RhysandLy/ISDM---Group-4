@@ -19,7 +19,7 @@ Business customers are offered many different travel options that does not suit 
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Daisy/Images/Empathy%20Map%20(Relationship%20Managers).png "Relationship Manager Empathy Map")
 
 ##### Potential Customers
-![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/Empath%20Map%20Potential%20Customer%20ISDM.png).png "Potential Customer Empathy Map")
+![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/Empath%20Map%20Potential%20Customer%20ISDM.png "Potential Customer Empathy Map")
 
 
 
