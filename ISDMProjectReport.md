@@ -40,6 +40,16 @@ their travelling needs.
 * HMW quantify RM's skills?
 * HMW find the right travel package for the required needs?
 
+### Design Thinking Approach and Ideation Reflection
+The call management centre (CMC) needs a new and improved system to assist in routing calls in an automated way, and during times of high call traffic. Our team has brainstormed ideas for efficiently routing calls with the new system. Changing from a manual system to an automated one, the system can use intelligent call routing. The customer first uses the customer profiler tool to create an account before they can call the Travel company and be matched with a Relationship Manager, the customer will then be given a unique ID that they will use to be matched with a Relationship Manager. 
+
+When a user calls the company they are prompted by an automated message that asks for a unique ID, which is then linked to their profile in the system database and matched with a Relationship Manager that will deal with their call. If a user does not have an ID, they will be directed to an Interactive Voice Response unit prompting them questions about their reason for calling (business or leisure) and very basic information, including name, age, preferred language. From their they will be put on hold and then matched to an available corresponding Relationship Manager.
+
+For out-bound calls from Relationship Managers, employees are given set times to carry out these calls. When they need to do out-bound calls, the system displays a target list of users that have not called the company, and relevant information to help perform a sale. The system generates a generic script and guide to help the Relationship manager.
+
+Our team wanted to prioritise efficiency and speed with the new system. In consideration of the customers, we believe customers do not want to spend long amounts of time waiting on hold, to be met with a Relation ship manager that is not suited to their needs. The use of the automated intelligent call routing system creates a much more efficient calling environment. When considering the Relationship Managers, the customer profiler tool allows the Relationship Managers skills to be used to their full potential, by being matched with customers that they can relate to, Relationship Managers want to make as many sales as they can utilizing their skills. Rather than being general, our team decided to go with a more specialized approach for call routing.
+
+
 ## Agile Methodology
 ### Scrum
 
@@ -56,6 +66,7 @@ their travelling needs.
 * Customer data is stored in a database with all relevant information about them that will be used to match them to a Relationship Manager.
 * Managers can access the database with customer information.
 * In busy times, inbound callers that stay on hold for long times if a matching relationship manager is busy, they currently redirected to the next available relationship manager.
+* Our team is only dealing with the call routing system and out-bound calls, anything else is out of scope
 
 
 ## Work Products and Models
@@ -66,7 +77,7 @@ Developing an information system for the in-house call management centre will pr
 
 With the current system, callers and relationship managers are manually matched, which is an inefficient way for routing as it wastes time, potential sales and in turn costs more money. With new call routing system,  the company is given another way to improve customer experience, relationships and fosters loyalty when paired with an appropriate relationship manager quickly, as callers are pleased that the business understands their needs, interests and values their time.
 
-The new system will be extremely scalable. Depending on future and or changing business requirements the call routing system can be scaled up or down easily. This “future-proof” design of the system is important in this ever-changing technological society where business are always looking to upgrade and improve themselves. 
+The new system will be extremely scalable. Depending on future and or changing business requirements the call routing system can be scaled up or down easily. This “future-proof” design of the system is important in this ever-changing technological society where business' are always looking to upgrade and improve themselves. 
 
 Cost effectiveness is a massive advantage when implementing a new intelligent call routing system, it can optimize operational costs by ensuring that calls are always routed to a matching relationship manager and never lost or sent to voicemail, eliminating any revenue losses that may occur due to lost calls. The improvement in call routing caller to matching relationship managers will help capitalise on conversion rates by providing a better customer experience to inbound callers. The complexities that come with manual pre-routing and computer telephony integration are eliminated with the newly defined scalable, cost-effective, customer-based information system.
 
