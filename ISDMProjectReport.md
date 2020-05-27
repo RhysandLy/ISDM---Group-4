@@ -7,6 +7,7 @@
 * Match RMs and end-customers according to RMs skills and customers profiles
 * Direct in bound customers to an Interactive Voice Response unit prompting them for options, and reasons for calling in a few words
 * Redirect the call to an Automatic Call Distributor routing the call to the first available appropriate RM
+* Improve out-bound system processes
 
 
 #### Empathy Map
@@ -21,7 +22,7 @@ their travelling needs.
 * Customers
     * Calling Business
     * Commercial (travelling for leisure)
-    * Customers for recruitment (Potential Cuatomers)
+    * Customers for recruitment (Potential Customers)
 * Relationship Managers (RM)    
 
 ## Approach
@@ -68,8 +69,10 @@ Our team wanted to prioritise efficiency and speed with the new system. In consi
 * In busy times, inbound callers that stay on hold for long times if a matching relationship manager is busy, they currently redirected to the next available relationship manager.
 * Our team is only dealing with the call routing system and out-bound calls, anything else is out of scope
 
-
 ## Work Products and Models
+### Use Case Diagram
+![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Rhys/Images/ISDM%20Diagrams-Use%20Case%20Diagram%20v2.png "Use Case Diagram")
+
 
 ## Advantages for developing a new Information System
 
