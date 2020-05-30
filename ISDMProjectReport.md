@@ -11,7 +11,7 @@
 
 
 #### Problem Statement:
-##### The travel company wants to improve the operation of their in-house call management Centre (CMC) by implementing a system which will help adjust the call flow rate to suitable Relationship Managers. The customers are directed towards a voice response system during busy times which leads to lack of engagements and loss of customers. The customers might have to wait before they are connected to the Relationship Managers and due to that potential and more valued customers might disconnect the call and not wait. This would lead to a great loss for the firm. The customers are matched with the Relationship Managers who doesn’t have the proper knowledge and lead to the customers being dissatisfied with the services. Furthermore, this will also affect the Relationship Managers as their work will be seen as a negative output. 
+##### The travel company wants to improve the operation of their in-house call management Centre (CMC) by implementing a system which will help adjust the call flow rate to suitable Relationship Managers(RM).  The customers are directed towards a voice response system during busy times, due to that customers  might have to wait before they are connected to the Relationship Managers(RM) and because  of that potential and more valued customers might disconnect the call and not wait.Furthermore,the customers may go dissatisfied with the services if they are not matched with a RM who has proper information about them. 
 
 #### Empathy Map
 
