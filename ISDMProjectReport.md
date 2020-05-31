@@ -67,6 +67,8 @@ The travel company wants to improve the operation of their in-house Call Managem
 * Our team is only dealing with the call routing system and out-bound calls, anything else is out of scope
 * There are specific Relationship Managers for Outbound calling, but regular Relationship Managers can also perform Outbound calls.
 
+## Point Of View Statements 
+
 | User                                                  	| Need                                                                                                                                             	| Insight                                                                                                                  	|
 |-------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------	|
 | Customers Waiting in queue for  call to connect.      	| An Interactive Voice Response unit  which asks them a few questions related to  their query and redirect the call to available  appropriate RM.  	| If customers have to wait for long, they will disconnect the call. Therefore keeping the customers engaged is important. 	|
