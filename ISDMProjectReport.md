@@ -97,9 +97,12 @@ Our team wanted to prioritise efficiency and speed with the new system. In consi
 ### User Stories
 
 ![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20use%20cases%20final%20PNG.png "Use Case")
+![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20USE%20CASE%20png.png "User Stories")
 
 ### Use Case Diagram
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Rhys/Images/ISDM%20Diagrams-Use%20Case%20Diagram%20v2.png "Use Case Diagram")
+
+
 
 
 ## Advantages for developing a new Information System
