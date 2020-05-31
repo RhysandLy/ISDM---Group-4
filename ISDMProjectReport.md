@@ -9,11 +9,10 @@
 * Redirect the call to an Automatic Call Distributor routing the call to the first available appropriate RM
 * Improve out-bound system processes
 
+#### Problem Statement:
+##### The travel company wants to improve the operation of their in-house call management Centre (CMC) by implementing a system which will help adjust the call flow rate to suitable Relationship Managers(RM).  The customers are directed towards a voice response system during busy times, due to that customers have to wait before they are connected to the Relationship Managers(RM). and because  of that potential and more valued customers disconnect the call and not wait.Furthermore,the customers go dissatisfied with the service if they are not matched with a RM who has proper information about them. 
 
 #### Empathy Map
-#### Problem Statement:
-##### The travel company wants to improve the operation of their in-house call management Centre (CMC) by implementing a system which will help adjust the call flow rate to suitable Relationship Managers. The customers are directed towards a voice response system during busy times which leads to lack of engagements and loss of customers. The customers might have to wait before they are connected to the Relationship Managers and due to that potential and more valued customers might disconnect the call and not wait. This would lead to a great loss for the firm. The customers are matched with the Relationship Managers who doesn’t have the proper knowledge and lead to the customers being dissatisfied with the services. Furthermore, this will also affect the Relationship Managers as their work will be seen as a negative output. 
-
 
 ##### Commercial Customer 
 
@@ -23,21 +22,11 @@
 
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Rhys/Images/Empathy%20Map%20Business%20Customers%20-%20rhys.PNG "Business Customer Empathy Map")
 
-
-**Problem Statement:** Business Customers 
-Business customers are offered many different travel options that does not suit their needs and it becomes difficult for them 
-to go through each of them as it is time consuming. It is very difficult for business customers to find the best option for 
-their travelling needs. 
-
 ##### Relationship Managers
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Daisy/Images/Empathy%20Map%20(Relationship%20Managers).png "Relationship Manager Empathy Map")
 
 ##### Potential Customers
 ![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/Empath%20Map%20Potential%20Customer%20ISDM.png "Potential Customer Empathy Map")
-
-
-
-
 
 ### Stakeholders
 * Customers
@@ -45,9 +34,6 @@ their travelling needs.
     * Commercial (travelling for leisure)
     * Customers for recruitment (Potential Customers)
 * Relationship Managers (RM)    
-
-
-
 
 ## Approach
 ### How Might We (HMW) Statements
@@ -97,6 +83,7 @@ Our team wanted to prioritise efficiency and speed with the new system. In consi
 
 ## Work Products and Models
 ### User Stories
+
 | As a/an   | I want to…                                                                    | so that                                                                                 |
 |-----------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 | Customer  | be able to communicate using my preferred language                            | I can explain my requirements better.                                                   |
@@ -125,7 +112,6 @@ Our team wanted to prioritise efficiency and speed with the new system. In consi
 
 ### Use Case Diagram
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Rhys/Images/ISDM%20Diagrams-Use%20Case%20Diagram%20v2.png "Use Case Diagram")
-
 
 ## Advantages for developing a new Information System
 
