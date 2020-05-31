@@ -92,6 +92,7 @@ During weekly scrum meetings, our team identified and analysed progress that had
 * Managers can access the database with customer information.
 * In busy times, inbound callers that stay on hold for long times if a matching relationship manager is busy, they currently redirected to the next available relationship manager.
 * Our team is only dealing with the call routing system and out-bound calls, anything else is out of scope
+* There are specific Relationship Managers for Outbound calling, but regular Relationship Managers can also perform Outbound calls.
 
 ## Work Products and Models
 ### User Stories
