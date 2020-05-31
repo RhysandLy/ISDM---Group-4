@@ -96,6 +96,33 @@ Our team wanted to prioritise efficiency and speed with the new system. In consi
 * Our team is only dealing with the call routing system and out-bound calls, anything else is out of scope
 
 ## Work Products and Models
+### User Stories
+| As a/an   | I want to…                                                                    | so that                                                                                 |
+|-----------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Customer  | be able to communicate using my preferred language                            | I can explain my requirements better.                                                   |
+| Customer  | be directed to the best suitable Relationship Manager                         | I can gather precise knowledge about my travel packages without any misunderstandings.  |
+| Customer  | be assigned to the Relationship Manager who knows my detail and my interests. | they can provide me with information without any basic questions.                       |
+| Customer  | be able to get the perfect and precise services                               | my time doesn’t waste.                                                                  |
+| Customer  | be able to continue my call with the previous assigned Relationship Manager   | I can continue my conversation                                                          |
+| Customer  | be able to know the estimated time it will take in queue                      | I can plan accordingly on to wait or call later.                                        |
+| Customer  | be able to know the status of my travel packages and the procedure            | I know if any changes are supposed to be made or not.                                   |
+
+| As a/an               | I want to..                                                                 | So that                                      |
+|-----------------------|-----------------------------------------------------------------------------|----------------------------------------------|
+| Relationship Manager  | be matched with the  customers I have information about                     | I can provide them with the best service.    |
+| Relationship Manager  | be able to access the required information about the customer               | I know what exactly is required out of me.   |
+| Relationship Manager  | receive customers details such as their past purchases                      | I can recommend them the perfect deal.       |
+| Relationship Manager  | be evaluated and assigned to the parts where I have interest and knowledge  | I can be motivated and enjoy working.        |
+| Company Manager       | I want to assign the Relationship Managers to the customers they know about | they can enjoy and provide better services.  |
+
+| As a/an              | I want to…                                                  | So that                                                                  |
+|----------------------|-------------------------------------------------------------|--------------------------------------------------------------------------|
+| Business Customer    | Save money with business packages                           | I can invest them.                                                       |
+| Business Customer    | I want to be given the best option for my travelling needs  | I don’t have to worry about anything related to it and focus on my work. |
+| Commercial Customer  | Have a good relaxing and cost saving budget deals.          | me and my family can enjoy without going out of my budget.               |
+| Commercial Customer  | I want my package to include places which I can see there.  | I don’t have to do any additional work towards it.                       |
+| Potential Customer   | be offered a deal which is relevant and special             | my time doesn’t waste  in unnecessary conversation.                      |
+
 ### Use Case Diagram
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Rhys/Images/ISDM%20Diagrams-Use%20Case%20Diagram%20v2.png "Use Case Diagram")
 
