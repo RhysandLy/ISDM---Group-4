@@ -72,11 +72,7 @@ Our team utilised the Agile methodology in developing this project. Weekly scrum
 
 ![Issues](https://github.com/RhysandLy/ISDM---Group-4/blob/Daisy/Images/Issues.png)
 
-Issues were opened and closed as progress was made.
-
-We also developed a Product Backlog of user stories as shown below:
-
-[INSERT USER STORIES HERE]
+Issues were opened and closed as progress was made. We also developed a Product Backlog of user stories as shown in Work Products and Models.
 
 While we developed several iterations of work models, this project was relatively short in time and did not include any testing or coding, and so only one sprint was conducted. A sprint review was conducted on 29/05/2020, where a meeting with the Product Owner was held and feedback given after an examination of the completed work. A sprint retrospective was conducted on 31/05/2020, where we identified areas where we could improve, namely our work model iterations.  
 
