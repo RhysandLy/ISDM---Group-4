@@ -10,7 +10,7 @@
 * Improve out-bound system processes
 
 #### Problem Statement:
-The travel company wants to improve the operation of their in-house call management Centre (CMC) by implementing a system which will help adjust the call flow rate to suitable Relationship Managers(RM).  The customers are directed towards a voice response system during busy times, due to that customers have to wait before they are connected to the Relationship Managers(RM). and because  of that potential and more valued customers disconnect the call and not wait.Furthermore,the customers go dissatisfied with the service if they are not matched with a RM who has proper information about them. 
+The travel company wants to improve the operation of their in-house Call Management Center (CMC) by implementing a system which will help adjust the call flow rate to suitable Relationship Managers(RM). During busy times, customers are directed towards a voice repsonse system where they are required to wait before being connected to Relationship Managers (RM). As a result, potential and valued customers are disconnected from the call and are required to wait. This leads to a negative outcome, with customers being dissatisfied with the service, by not receiving the relevant information about a suitable travel package. Ultimately, the needs of our users are not being met from this current system.  
 
 #### Empathy Map
 
@@ -127,7 +127,7 @@ During weekly scrum meetings, our team identified and analysed progress that had
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Rhys/Images/ISDM%20Diagrams-Use%20Case%20Diagram%20v2.png "Use Case Diagram")
 
 ### Activity Diagram For Inbound Customers
-![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20Diagrams-Activity%20Diagram%20(1).png "Activity Diagram For Inbound Customers")
+![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20Diagrams-Activity%20Diagram%20(1).png"Activity Diagram For Inbound Customers")
 
 ### Activity Diagram For Outbound Customers
 ![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20Diagrams-Activity%20Diagram-2%20(2).png "Activity Diagram For Outbound Customers")
