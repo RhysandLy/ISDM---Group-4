@@ -126,6 +126,9 @@ During weekly scrum meetings, our team identified and analysed progress that had
 ### Use Case Diagram
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Rhys/Images/ISDM%20Diagrams-Use%20Case%20Diagram%20v2.png "Use Case Diagram")
 
+### Activity Diagram For Inbound Customers
+![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20Diagrams-Activity%20Diagram%20(1).png"Activity Diagram For Inbound Customers")
+
 ### Activity Diagram For Outbound Customers
 ![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20Diagrams-Activity%20Diagram-2%20(2).png "Activity Diagram For Outbound Customers")
 
