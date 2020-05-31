@@ -11,7 +11,7 @@
 
 
 #### Problem Statement:
-##### The travel company wants to improve the operation of their in-house call management Centre (CMC) by implementing a system which will help adjust the call flow rate to suitable Relationship Managers(RM).  The customers are directed towards a voice response system during busy times, due to that customers have to wait before they are connected to the Relationship Managers(RM) and because  of that potential and more valued customers disconnect the call and not wait.Furthermore,the customers go dissatisfied with the service if they are not matched with a RM who has proper information about them. 
+##### The travel company wants to improve the operation of their in-house call management Centre (CMC) by implementing a system which will help adjust the call flow rate to suitable Relationship Managers(RM).  The customers are directed towards a voice response system during busy times, due to that customers have to wait before they are connected to the Relationship Managers(RM). and because  of that potential and more valued customers disconnect the call and not wait.Furthermore,the customers go dissatisfied with the service if they are not matched with a RM who has proper information about them. 
 
 #### Empathy Map
 
@@ -22,12 +22,6 @@
 ##### Business Customer
 
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Rhys/Images/Empathy%20Map%20Business%20Customers%20-%20rhys.PNG "Business Customer Empathy Map")
-
-
-**Problem Statement:** Business Customers 
-Business customers are offered many different travel options that does not suit their needs and it becomes difficult for them 
-to go through each of them as it is time consuming. It is very difficult for business customers to find the best option for 
-their travelling needs. 
 
 ##### Relationship Managers
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Daisy/Images/Empathy%20Map%20(Relationship%20Managers).png "Relationship Manager Empathy Map")
