@@ -51,6 +51,22 @@ The travel company wants to improve the operation of their in-house Call Managem
 * HMW quantify RM's skills?
 * HMW find the right travel package for the required needs?
 
+## Assumptions
+
+* There are also travel packages to more than just holidays, customers can also purchase business packages to business trips. 
+* Before customers call, they must have used the customer profile using the profiler tool.
+* A target list is created with potential customers that have used the profiler tool, and have agreed to be call, sent messages etc.
+* Outbound calls are performed in set times made by managers when times are quiet.
+* The script and guidelines given to the relationship manager from the system to help in providing an improved service to the end-customer is only to advise, and does not have to be followed exactly
+* Prior to starting the role, each RM is required to complete a questionnaire to align their knowledge with the company requirements. It is assumed that this is checked through interviews and skills testing
+* Call matching is currently handled manually.
+* A physical receptionist was hired to assort the inbound calls from the customers to the correct Relationship Manager through the private automatic branch exchange.
+* Customer data is stored in a database with all relevant information about them that will be used to match them to a Relationship Manager.
+* Managers can access the database with customer information.
+* In busy times, inbound callers that stay on hold for long times if a matching relationship manager is busy, they currently redirected to the next available relationship manager.
+* Our team is only dealing with the call routing system and out-bound calls, anything else is out of scope
+* There are specific Relationship Managers for Outbound calling, but regular Relationship Managers can also perform Outbound calls.
+
 ### Design Thinking Approach and Ideation Reflection
 The call management centre (CMC) needs a new and improved system to assist in routing calls in an automated way, and during times of high call traffic. Our team has brainstormed ideas for efficiently routing calls with the new system. Changing from a manual system to an automated one, the system can use intelligent call routing. The customer first uses the customer profiler tool to create an account before they can call the Travel company and be matched with a Relationship Manager, the customer will then be given a unique ID that they will use to be matched with a Relationship Manager. 
 
@@ -77,22 +93,6 @@ Issues were opened and closed as progress was made. We also developed a Product 
 While we developed several iterations of work models, this project was relatively short in time and did not include any testing or coding, and so only one sprint was conducted. A sprint review was conducted on 29/05/2020, where a meeting with the Product Owner was held and feedback given after an examination of the completed work. A sprint retrospective was conducted on 31/05/2020, where we identified areas where we could improve, namely our work model iterations.  
 
 During weekly scrum meetings, our team identified and analysed progress that had been made, discussed any issues in working processes, such as re-assigning tasks that better suited certain members, and any work that should be completed by the next meeting. Requirements did not change during the development process, meaning the development process was relatively smooth and high adaptability was not needed, although by aligning with the agile methodology, was still highly achievable. 
-
-## Assumptions
-
-* There are also travel packages to more than just holidays, customers can also purchase business packages to business trips. 
-* Before customers call, they must have used the customer profile using the profiler tool.
-* A target list is created with potential customers that have used the profiler tool, and have agreed to be call, sent messages etc.
-* Outbound calls are performed in set times made by managers when times are quiet.
-* The script and guidelines given to the relationship manager from the system to help in providing an improved service to the end-customer is only to advise, and does not have to be followed exactly
-* Prior to starting the role, each RM is required to complete a questionnaire to align their knowledge with the company requirements. It is assumed that this is checked through interviews and skills testing
-* Call matching is currently handled manually.
-* A physical receptionist was hired to assort the inbound calls from the customers to the correct Relationship Manager through the private automatic branch exchange.
-* Customer data is stored in a database with all relevant information about them that will be used to match them to a Relationship Manager.
-* Managers can access the database with customer information.
-* In busy times, inbound callers that stay on hold for long times if a matching relationship manager is busy, they currently redirected to the next available relationship manager.
-* Our team is only dealing with the call routing system and out-bound calls, anything else is out of scope
-* There are specific Relationship Managers for Outbound calling, but regular Relationship Managers can also perform Outbound calls.
 
 ## Work Products and Models
 ### User Stories
