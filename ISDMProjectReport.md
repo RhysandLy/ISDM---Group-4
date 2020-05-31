@@ -124,7 +124,7 @@ During weekly scrum meetings, our team identified and analysed progress that had
 | Potential Customer   | be offered a deal which is relevant and special             | my time doesn’t waste  in unnecessary conversation.                      |
 
 ### Use Case Diagram
-![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Rhys/Images/ISDM%20Diagrams-Use%20Case%20Diagram%20v2.png "Use Case Diagram")
+![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/master/Images/ISDM%20Diagrams-Use%20Case%20Diagram.png "Use Case Diagram")
 
 ## Advantages for developing a new Information System
 
