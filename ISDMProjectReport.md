@@ -94,7 +94,7 @@ Our team wanted to prioritise efficiency and speed with the new system. In consi
 * Our team is only dealing with the call routing system and out-bound calls, anything else is out of scope
 
 ## Work Products and Models
-###User Stories 
+### User Stories
 
 ![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20use%20cases%20final%20PNG.png "Use Case")
 
