@@ -95,7 +95,6 @@ Our team wanted to prioritise efficiency and speed with the new system. In consi
 
 ## Work Products and Models
 ### User Stories
-
 ![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20use%20cases%20final%20PNG.png "Use Case")
 ![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20USE%20CASE%20png.png "User Stories")
 
