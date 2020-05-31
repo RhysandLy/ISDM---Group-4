@@ -66,6 +66,22 @@ Our team wanted to prioritise efficiency and speed with the new system. In consi
 ## Agile Methodology
 ### Scrum
 
+Our team utilised the Agile methodology in developing this project. Weekly scrum meetings were held, where we reviewed the work that had been done and identified and assigned the work that had yet to be done. Aligning with the scrum team model, our team was self sufficient and all work processes were organised by us, instead of an external force. By using tools including Github, Draw.io, Google Docs and Google Slides, we were able to collaborate efficiently and track progress using version control. ‘Commits’ were made by each team member in constantly merging their current work with the ‘master’ version. This also enabled constant feedback from each team member that could be incorporated to improve each iteration, and ensured high productivity and strong cooperation. To overcome the challenge of a lack of face-to-face meetings, we used Facebook Messenger and Zoom as our main forms of communication, which met our needs adequately. We nominated a Scrum Master, Rhys, who facilitated Scrum and communication between the Product Owner and Development Team. We used Github Project Boards and Issues to list a Sprint Backlog we followed and used to prioritise activities in, as shown below:
+
+![Project Board](https://github.com/RhysandLy/ISDM---Group-4/blob/Daisy/Images/Project%20Board.png)
+
+![Issues](https://github.com/RhysandLy/ISDM---Group-4/blob/Daisy/Images/Issues.png)
+
+Issues were opened and closed as progress was made.
+
+We also developed a Product Backlog of user stories as shown below:
+
+[INSERT USER STORIES HERE]
+
+While we developed several iterations of work models, this project was relatively short in time and did not include any testing or coding, and so only one sprint was conducted. A sprint review was conducted on 29/05/2020, where a meeting with the Product Owner was held and feedback given after an examination of the completed work. A sprint retrospective was conducted on 31/05/2020, where we identified areas where we could improve, namely our work model iterations.  
+
+During weekly scrum meetings, our team identified and analysed progress that had been made, discussed any issues in working processes, such as re-assigning tasks that better suited certain members, and any work that should be completed by the next meeting. Requirements did not change during the development process, meaning the development process was relatively smooth and high adaptability was not needed, although by aligning with the agile methodology, was still highly achievable. 
+
 ## Assumptions
 
 * There are also travel packages to more than just holidays, customers can also purchase business packages to business trips. 
