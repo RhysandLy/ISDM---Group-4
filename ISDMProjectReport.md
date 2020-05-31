@@ -9,7 +9,6 @@
 * Redirect the call to an Automatic Call Distributor routing the call to the first available appropriate RM
 * Improve out-bound system processes
 
-
 #### Problem Statement:
 ##### The travel company wants to improve the operation of their in-house call management Centre (CMC) by implementing a system which will help adjust the call flow rate to suitable Relationship Managers(RM).  The customers are directed towards a voice response system during busy times, due to that customers have to wait before they are connected to the Relationship Managers(RM). and because  of that potential and more valued customers disconnect the call and not wait.Furthermore,the customers go dissatisfied with the service if they are not matched with a RM who has proper information about them. 
 
@@ -29,19 +28,12 @@
 ##### Potential Customers
 ![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/Empath%20Map%20Potential%20Customer%20ISDM.png "Potential Customer Empathy Map")
 
-
-
-
-
 ### Stakeholders
 * Customers
     * Calling Business
     * Commercial (travelling for leisure)
     * Customers for recruitment (Potential Customers)
 * Relationship Managers (RM)    
-
-
-
 
 ## Approach
 ### How Might We (HMW) Statements
@@ -66,7 +58,9 @@ When a user calls the company they are prompted by an automated message that ask
 
 For out-bound calls from Relationship Managers, employees are given set times to carry out these calls. When they need to do out-bound calls, the system displays a target list of users that have not called the company, and relevant information to help perform a sale. The system generates a generic script and guide to help the Relationship manager.
 
-Our team wanted to prioritise efficiency and speed with the new system. In consideration of the customers, we believe customers do not want to spend long amounts of time waiting on hold, to be met with a Relation ship manager that is not suited to their needs. The use of the automated intelligent call routing system creates a much more efficient calling environment. When considering the Relationship Managers, the customer profiler tool allows the Relationship Managers skills to be used to their full potential, by being matched with customers that they can relate to, Relationship Managers want to make as many sales as they can utilizing their skills. Rather than being general, our team decided to go with a more specialized approach for call routing.
+In times of high traffic calling, customers will still be met with automated message asking for customer ID however they are not instantly routed to a Relationship Managers, they will be put on hold until a Relationship manager is free.
+
+Our team wanted to prioritise efficiency and speed with the new system. In consideration of the customers, we believe customers do not want to spend long amounts of time waiting on hold, to be met with a Relationship manager that is not suited to their needs. The use of the automated intelligent call routing system creates a much more efficient calling environment. When considering the Relationship Managers, the customer profiler tool allows the Relationship Managers skills to be used to their full potential, by being matched with customers that they can relate to, Relationship Managers want to make as many sales as they can utilizing their skills. Rather than being general, our team decided to go with a more specialized approach for call routing.
 
 
 ## Agile Methodology
@@ -89,28 +83,49 @@ Our team wanted to prioritise efficiency and speed with the new system. In consi
 
 ## Work Products and Models
 ### User Stories
-![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/USE%20CASE%201%20.png "User Stories")
-![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20USE%20CASE%20png.png "User Stories")
+
+| As a/an   | I want to…                                                                    | so that                                                                                 |
+|-----------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Customer  | be able to communicate using my preferred language                            | I can explain my requirements better.                                                   |
+| Customer  | be directed to the best suitable Relationship Manager                         | I can gather precise knowledge about my travel packages without any misunderstandings.  |
+| Customer  | be assigned to the Relationship Manager who knows my detail and my interests. | they can provide me with information without any basic questions.                       |
+| Customer  | be able to get the perfect and precise services                               | my time doesn’t waste.                                                                  |
+| Customer  | be able to continue my call with the previous assigned Relationship Manager   | I can continue my conversation                                                          |
+| Customer  | be able to know the estimated time it will take in queue                      | I can plan accordingly on to wait or call later.                                        |
+| Customer  | be able to know the status of my travel packages and the procedure            | I know if any changes are supposed to be made or not.                                   |
+
+| As a/an               | I want to..                                                                 | So that                                      |
+|-----------------------|-----------------------------------------------------------------------------|----------------------------------------------|
+| Relationship Manager  | be matched with the  customers I have information about                     | I can provide them with the best service.    |
+| Relationship Manager  | be able to access the required information about the customer               | I know what exactly is required out of me.   |
+| Relationship Manager  | receive customers details such as their past purchases                      | I can recommend them the perfect deal.       |
+| Relationship Manager  | be evaluated and assigned to the parts where I have interest and knowledge  | I can be motivated and enjoy working.        |
+| Company Manager       | I want to assign the Relationship Managers to the customers they know about | they can enjoy and provide better services.  |
+
+| As a/an              | I want to…                                                  | So that                                                                  |
+|----------------------|-------------------------------------------------------------|--------------------------------------------------------------------------|
+| Business Customer    | Save money with business packages                           | I can invest them.                                                       |
+| Business Customer    | I want to be given the best option for my travelling needs  | I don’t have to worry about anything related to it and focus on my work. |
+| Commercial Customer  | Have a good relaxing and cost saving budget deals.          | me and my family can enjoy without going out of my budget.               |
+| Commercial Customer  | I want my package to include places which I can see there.  | I don’t have to do any additional work towards it.                       |
+| Potential Customer   | be offered a deal which is relevant and special             | my time doesn’t waste  in unnecessary conversation.                      |
 
 ### Use Case Diagram
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/Rhys/Images/ISDM%20Diagrams-Use%20Case%20Diagram%20v2.png "Use Case Diagram")
 
-
-
-
 ## Advantages for developing a new Information System
 
-Developing an information system for the in-house call management centre will provide a higher level of personalised service to customers. With being closer with the high-level support team the relationship managers can help resolve customer related issues quicker and more efficiently. Having a more personalised customer service, by routing calls from  customers to a matching relationship managers to through the system, they can build strong relationships and customers are more likely to call again and/or purchase another package and in turn improving the business’ profits. 
+Developing an information system for the in-house call management centre will provide a higher level of personalised service to customers. With being closer with the high-level support team the relationship managers can help resolve customer related issues quicker and more efficiently. Having a more personalised customer service, by routing calls from  customers to a matching relationship manager through the system, they can build strong relationships and customers are more likely to call again and/or purchase another package and in turn improving the business’ profits.
 
-With the current system, callers and relationship managers are manually matched, which is an inefficient way for routing as it wastes time, potential sales and in turn costs more money. With new call routing system,  the company is given another way to improve customer experience, relationships and fosters loyalty when paired with an appropriate relationship manager quickly, as callers are pleased that the business understands their needs, interests and values their time.
+With the current system, callers and relationship managers are manually matched, which is an inefficient way for routing as it wastes time, potential sales and in turn costs more money. With a new call routing system,  the company is given another way to improve customer experience, relationships and fosters loyalty when paired with an appropriate relationship manager quickly, as callers are pleased that the business understands their needs, interests and values their time.
 
-The new system will be extremely scalable. Depending on future and or changing business requirements the call routing system can be scaled up or down easily. This “future-proof” design of the system is important in this ever-changing technological society where business' are always looking to upgrade and improve themselves. 
+The new system will be extremely scalable, intelligent call routing can be implemented with many different deployment models. Depending on future and or changing business requirements the call routing system can be scaled up or down easily. This “future-proof” design of the system is important in this ever-changing technological society where businesses are always looking to upgrade and improve themselves.
 
 Cost effectiveness is a massive advantage when implementing a new intelligent call routing system, it can optimize operational costs by ensuring that calls are always routed to a matching relationship manager and never lost or sent to voicemail, eliminating any revenue losses that may occur due to lost calls. The improvement in call routing caller to matching relationship managers will help capitalise on conversion rates by providing a better customer experience to inbound callers. The complexities that come with manual pre-routing and computer telephony integration are eliminated with the newly defined scalable, cost-effective, customer-based information system.
 
-With outbound calls, relationship managers are also match with customers that have shown interest in the company’s services. The information shown to the relationship managers in the database collected from the profiler tool, allows the relationship managers to make a more personal connection and target what the customer really wants. The script and guidelines given to the relationship manager from the system is a unique way to personalise the customer experience and improve relations. This will help the relationship mangers make a sale or intrigue the customer enough to call and buy a travel package. 
+With outbound calls, relationship managers are also matched with customers that have shown interest in the company’s services. The information shown to the relationship managers in the database collected from the profiler tool, allows the relationship managers to make a more personal connection and target what the customer really wants. The script and guidelines given to the relationship manager from the system is a unique way to personalise the customer experience and improve relations. This will help the relationship managers make a sale or intrigue the customer enough to call and buy a travel package.
 
-The new system eliminates cold calling and only relies on warm calling (The prospect has some level of interest.). This makes the companies services more personal, and more appealing to customers, that favour the respect of an individual desires. Cold calling usually ends with the customer hanging up and no sale is made.  Unsolicited calls will not help the company improve sales and profits but will most likely waste the company’s time and money. Through the new system relationship manager will only deal with customers that have shown interest and used the profiler tool and will be more likely to sell a travel package.
-
+The new system eliminates cold calling and only relies on warm calling (The prospect has some level of interest.). This makes the companies services more personal, and more appealing to customers, that favour the respect of an individual's desires. Cold calling usually ends with the customer hanging up and no sale is made.  Unsolicited calls will not help the company improve sales and profits but will most likely waste the company’s time and money. Through the new system relationship manager will only deal with customers that have shown interest and used the profiler tool and will be more likely to sell a travel package.
 The new system will favour more effective and personal inbound and outbound calling strategies, thus improving sales and customer relationships.
+
 
