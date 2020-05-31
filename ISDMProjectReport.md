@@ -10,7 +10,7 @@
 * Improve out-bound system processes
 
 #### Problem Statement:
-##### The travel company wants to improve the operation of their in-house call management Centre (CMC) by implementing a system which will help adjust the call flow rate to suitable Relationship Managers(RM).  The customers are directed towards a voice response system during busy times, due to that customers have to wait before they are connected to the Relationship Managers(RM). and because  of that potential and more valued customers disconnect the call and not wait.Furthermore,the customers go dissatisfied with the service if they are not matched with a RM who has proper information about them. 
+The travel company wants to improve the operation of their in-house call management Centre (CMC) by implementing a system which will help adjust the call flow rate to suitable Relationship Managers(RM).  The customers are directed towards a voice response system during busy times, due to that customers have to wait before they are connected to the Relationship Managers(RM). and because  of that potential and more valued customers disconnect the call and not wait.Furthermore,the customers go dissatisfied with the service if they are not matched with a RM who has proper information about them. 
 
 #### Empathy Map
 
