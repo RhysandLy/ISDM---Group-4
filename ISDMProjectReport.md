@@ -144,12 +144,15 @@ During weekly scrum meetings, our team identified and analysed progress that had
 ### Activity Diagram For Outbound Customers
 ![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20Diagrams-Activity%20Diagram-2%20(2).png "Activity Diagram For Outbound Customers")
 
+### Class Diagram
+![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/master/Images/ISDM%20Diagrams-Class%20Diagram.png "Class Diagram")
+
 ### Collaborative Diagram
 ![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/thivya-98-patch-1/Images/Collaborative%20diagram%20attempt%203.PNG "Collaborative Diagram")
 
 ## Advantages for developing a new Information System
 
-Developing an information system for the in-house call management centre will provide a higher level of personalised service to customers. With being closer with the high-level support team the relationship managers can help resolve customer related issues quicker and more efficiently. Having a more personalised customer service, by routing calls from  customers to a matching relationship manager through the system, they can build strong relationships and customers are more likely to call again and/or purchase another package and in turn improving the business’ profits.
+Developing an information system for the in-house call management centre will provide a higher level of personalised service to customers. With being closer with the high-level support team the relationship managers can help resolve customer related issues quicker and more efficiently. Having a more personalised customer service, by routing calls from  customers to a matching relationship manager through the system, Relationship Managers can build strong bonds and customers are more likely to call again and/or purchase another package and in turn improving the business’ profits.
 
 With the current system, callers and relationship managers are manually matched, which is an inefficient way for routing as it wastes time, potential sales and in turn costs more money. With a new call routing system,  the company is given another way to improve customer experience, relationships and fosters loyalty when paired with an appropriate relationship manager quickly, as callers are pleased that the business understands their needs, interests and values their time.
 
