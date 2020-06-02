@@ -7,7 +7,7 @@
 * Match RMs and end-customers according to RMs skills and customers profiles
 * Direct in bound customers to an Interactive Voice Response unit prompting them for options, and reasons for calling in a few words
 * Redirect the call to an Automatic Call Distributor routing the call to the first available appropriate RM
-* Improve out-bound system processes
+* Improve out-bound call system processes
 
 #### Problem Statement:
 The travel company wants to improve the operation of their in-house Call Management Center (CMC) by implementing a system which will help adjust the call flow rate to suitable Relationship Managers(RM). During busy times, customers are directed towards a voice repsonse system where they are required to wait before being connected to Relationship Managers (RM). As a result, potential and valued customers are disconnected from the call and are required to wait. This leads to a negative outcome, with customers being dissatisfied with the service, by not receiving the relevant information about a suitable travel package. Ultimately, the needs of our users are not being met from this current system.  
@@ -32,7 +32,7 @@ The travel company wants to improve the operation of their in-house Call Managem
 * Customers
     * Calling Business
     * Commercial (travelling for leisure)
-    * Customers for recruitment (Potential Customers)
+    * Potential Customers
 * Relationship Managers (RM)    
 
 ## Approach
@@ -169,4 +169,4 @@ The new system will favour more effective and personal inbound and outbound call
 Our team has considered the current system and worked on improving the Call Management Center (CMC) system by focusing on enhancing the efficiency of Customer-Relationship Manager communication and opting for a more austomatic call routing approach. This improved information system enables a personalised and practical manner for customers to be in contact and receive their relevant information of their most suitable travel packages from this travel company. Our improved system meets and satisfies the users needs. 
 
 ## Presentation
-Our Team were also tasked with creating a video presentation, [here is a YouTube link to our presentation.](https://youtu.be/FxUYWnqI1Lk "ISDM Group 4 Presentation")
+Our team was also tasked with creating a video presentation, [here is a YouTube link to our presentation.](https://youtu.be/FxUYWnqI1Lk "ISDM Group 4 Presentation")
