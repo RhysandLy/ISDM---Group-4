@@ -36,6 +36,17 @@ The travel company wants to improve the operation of their in-house Call Managem
 * Relationship Managers (RM)    
 
 ## Approach
+## Point Of View Statements 
+
+| User                                                  	| Need                                                                                                                                             	| Insight                                                                                                                  	|
+|-------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------	|
+| Customers Waiting in queue for  call to connect.      	| An Interactive Voice Response unit  which asks them a few questions related to  their query and redirect the call to available  appropriate RM.  	| If customers have to wait for long, they will disconnect the call. Therefore keeping the customers engaged is important. 	|
+| Relationship Managers calling Outbound End-Customers  	| Customers details and script guidelines                                                                                                          	| To improve the overall services towards the customers                                                                    	|
+| Regular Customers                                     	| To be prioritised and served by suitable Relationship Managers                                                                                   	| Customers who are keen to  buy packages will receive better services.                                                    	|
+| Travel Company                                        	| The system to be reliable                                                                                                                        	| So they can serve better and it doesnt cost them in terms of losing money and customers                                  	|
+| Travel Company who has more demand                    	| The system to handle the customers in an organised way.                                                                                          	| So they can present their offers in an easier way                                                                        	|
+| Relationship Managers receiving call  from customer   	| Be routed to customers they are able to support based on their skills  and knowledge.                                                            	| This will help the RM to give better services  and have a satisfied customer.                                            	|
+
 ### How Might We (HMW) Statements
 #### Business Customers
 * HMW filter through travel packages for business Customers?
@@ -142,6 +153,9 @@ During weekly scrum meetings, our team identified and analysed progress that had
 
 ### Activity Diagram For Outbound Customers
 ![alt text](https://github.com/Bilal13396989/ISDM---Group-4/blob/master/ISDM%20Diagrams-Activity%20Diagram-2%20(2).png "Activity Diagram For Outbound Customers")
+
+### Collaborative Diagram
+![alt text](https://github.com/RhysandLy/ISDM---Group-4/blob/thivya-98-patch-1/Images/Collaborative%20diagram%20attempt%203.PNG "Collaborative Diagram")
 
 ## Advantages for developing a new Information System
 
